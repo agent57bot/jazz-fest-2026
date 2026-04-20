@@ -19,7 +19,8 @@
 
 #### Friday Evening (5-7 PM)
 **Major conflict:**
-- Jon Batiste (Festival, 5:10) vs. Lorde (Festival, 5:30) - **SAME STAGE**, must choose
+- Jon Batiste (5:10) vs. Lorde (5:30) - **different stages, overlapping times**
+- Could potentially catch Jon Batiste then move to catch Lorde
 - Sean Paul (Congo Square, 5:45) overlaps with both
 - Hiromi's Sonicwonder (WWOZ, 5:45) is another option
 
@@ -32,8 +33,8 @@
 
 #### Sunday Evening (5-7 PM)
 **Legendary closers:**
-- Rod Stewart (Festival, 5:25) vs. David Byrne (Congo Square, 5:30) vs. Jon Batiste Swamp (Festival, 5:30)
-- Rod/Jon Batiste same stage conflict again
+- Rod Stewart (5:25) vs. David Byrne (Congo Square, 5:30) vs. Jon Batiste Swamp (5:30)
+- Different stages but all overlapping - can potentially catch parts of multiple sets
 - The Isley Brothers (Congo Square, 5:40) also in mix
 
 ## Recommended Daily Plans
@@ -50,8 +51,8 @@ Focus on big names at Festival Stage and Congo Square.
 **Friday:**
 - 2:00 PM: Cyril Neville (Lagniappe) - Neville family royalty
 - 3:25 PM: The Dirty Dozen Brass Band (Festival)
-- 5:10 PM: **Jon Batiste** (Festival)
-- Skip Lorde, or arrive at 6:30 for partial set
+- 5:10 PM: **Jon Batiste** 
+- 5:45 PM: Move to catch **Lorde** (different stage, can potentially see both)
 
 **Saturday:**
 - 12:20 PM: Kermit Ruffins & BBQ Swingers (Congo Square) - quintessential NOLA
