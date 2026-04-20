@@ -21,12 +21,32 @@ This repo tracks logistics, accommodations, dining, and activities for the Jazz 
 
 ```
 jazz-fest-2026/
-├── README.md           # This file
-├── locations.md        # Key locations with details
-├── schedule.md         # Festival schedule and plans
-├── accommodations.md   # Where we're staying
-└── dining.md          # Restaurant reservations & recommendations
+├── README.md                    # This file
+├── lineup-first-weekend.md      # Full lineup Thu-Sun with headliners
+├── planning-guide.md            # Strategy guide, conflicts, must-sees
+├── hidden-gems.md               # Underappreciated acts & Grand Marshall tips
+├── transportation-guide.md      # Fair Grounds → Quarter House options
+├── group-coordination.md        # For Laura: managing group logistics
+├── locations.md                 # Key locations with details
+├── schedule.md                  # Festival schedule and plans
+├── accommodations.md            # Where we're staying
+├── dining.md                    # Restaurant reservations & recommendations
+├── jazz-fest-2026-lineup.pdf    # Official lineup PDF
+└── sunday-evening-conflict.jpg  # Visual of Sunday 5:25-7 PM conflict
 ```
+
+## Quick Start Guides
+
+**First time planning Jazz Fest?** Start with:
+1. [Lineup First Weekend](./lineup-first-weekend.md) - See who's playing
+2. [Planning Guide](./planning-guide.md) - Understand conflicts and strategy
+3. [Transportation Guide](./transportation-guide.md) - How to get there/back
+
+**Grand Marshall pass holders?** Read:
+- [Hidden Gems](./hidden-gems.md) - Best use of front stage access
+
+**Organizing a group?** Read:
+- [Group Coordination](./group-coordination.md) - Laura's sanity-saving guide
 
 ## Contributing
 
