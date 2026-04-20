@@ -32,10 +32,44 @@
 - All three are huge draws at the same time
 
 #### Sunday Evening (5-7 PM)
-**Legendary closers:**
-- Rod Stewart (5:25) vs. David Byrne (Congo Square, 5:30) vs. Jon Batiste Swamp (5:30)
-- Different stages but all overlapping - can potentially catch parts of multiple sets
-- The Isley Brothers (Congo Square, 5:40) also in mix
+**MOST CONGESTED SLOT OF THE WEEKEND:**
+- **Rod Stewart** (5:25-6:55)
+- **David Byrne** (5:30-7:00)
+- **Jon Batiste presents Swamp** (5:30-7:00)
+- **The Isley Brothers** (5:40-6:55)
+- **Ron Carter Foursight Quartet** (5:45-7:00)
+
+Five legendary acts, all at once. This is an impossible choice - you WILL miss something great.
+
+## Sunday Evening Strategy (The Impossible Choice)
+
+Sunday 5:25-7:00 PM has **five legends** performing simultaneously. There's no right answer, but here are ways to approach it:
+
+### Option 1: Pick One, Commit Fully
+Choose your #1 priority and stay for the whole set. Don't try to hop around.
+
+**Rod Stewart** - Classic rock icon, greatest hits show  
+**David Byrne** - Art rock legend, theatrical performance  
+**Jon Batiste** - New Orleans native, "Swamp" project  
+**The Isley Brothers** - Soul/R&B legends  
+**Ron Carter** - Jazz master, intimate performance  
+
+### Option 2: Strategic Split (Rod Stewart early advantage)
+Rod starts at **5:25** (5 minutes before others):
+1. Catch Rod Stewart 5:25-6:00 (35 min)
+2. Move to David Byrne or Jon Batiste 6:00-7:00 (final hour)
+
+### Option 3: Jazz Focus
+If you're into jazz, this is easier:
+- Ron Carter (5:45-7:00) at WWOZ Jazz Tent - more intimate venue, easier access
+
+### Option 4: Local Pride
+Jon Batiste is a New Orleans legend presenting his "Swamp" project - this is the hometown choice and won't tour like the others might.
+
+### Option 5: "I'll Never See Them Again"
+The Isley Brothers and Rod Stewart are in their 80s/70s. If you've never seen them, this might be your last chance.
+
+**Group decision needed:** This is the conversation to have before Sunday arrives.
 
 ## Recommended Daily Plans
 

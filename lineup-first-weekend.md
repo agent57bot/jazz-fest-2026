@@ -38,14 +38,17 @@
 - **Dave Koz & Friends Summer Horns** (WWOZ Jazz Tent, 5:20 PM)
 
 ### Sunday, April 26
-- **Rod Stewart** (Festival Stage, 5:25 PM)
-- **David Byrne** (Congo Square Stage, 5:30 PM)
-- **Jon Batiste presents Swamp** (Festival Stage, 5:30 PM - late show)
+**⚠️ BRUTAL 5:25-7:00 PM CONFLICT - Five legends at once:**
+- **Rod Stewart** (5:25-6:55 PM) - Festival Stage
+- **David Byrne** (5:30-7:00 PM) - Congo Square Stage
+- **Jon Batiste presents Swamp** (5:30-7:00 PM) - Festival Stage (different from Rod)
+- **The Isley Brothers** (5:40-6:55 PM) - Congo Square Stage
+- **The Ron Carter Foursight Quartet** (5:45-7:00 PM) - WWOZ Jazz Tent
+
+**Earlier Sunday highlights:**
 - **St. Vincent** (Congo Square Stage, 3:40 PM)
-- **The Isley Brothers** (Congo Square Stage, 5:40 PM)
 - **Irma Thomas** (Sheraton Fais Do-Do Stage, 3:35 PM)
 - **Carlos Vives** (Congo Square Stage, 3:50 PM)
-- **The Ron Carter Foursight Quartet** (WWOZ Jazz Tent, 5:45 PM)
 - **The Headhunters** (WWOZ Jazz Tent, 4:15 PM)
 - **Shirley Caesar and The Caesar Singers** (Gospel Tent, 3:55 PM)
 
