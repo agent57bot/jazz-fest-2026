@@ -21,18 +21,21 @@ This repo tracks logistics, accommodations, dining, and activities for the Jazz 
 
 ```
 jazz-fest-2026/
-├── README.md                    # This file
-├── lineup-first-weekend.md      # Full lineup Thu-Sun with headliners
-├── planning-guide.md            # Strategy guide, conflicts, must-sees
-├── hidden-gems.md               # Underappreciated acts & Grand Marshall tips
-├── transportation-guide.md      # Fair Grounds → Quarter House options
-├── group-coordination.md        # For Laura: managing group logistics
-├── locations.md                 # Key locations with details
-├── schedule.md                  # Festival schedule and plans
-├── accommodations.md            # Where we're staying
-├── dining.md                    # Restaurant reservations & recommendations
-├── jazz-fest-2026-lineup.pdf    # Official lineup PDF
-└── sunday-evening-conflict.jpg  # Visual of Sunday 5:25-7 PM conflict
+├── README.md                      # This file
+├── lineup-first-weekend.md        # Full lineup Thu-Sun with headliners
+├── planning-guide.md              # Strategy guide, conflicts, must-sees
+├── grand-marshal-guide.md         # GM pass entry, hospitality tent, access rules
+├── hidden-gems.md                 # Underappreciated acts & GM front-stage tips
+├── transportation-guide.md        # Fair Grounds → Quarter House options
+├── group-coordination.md          # For Laura: managing group logistics
+├── locations.md                   # Key locations with details
+├── schedule.md                    # Festival schedule and plans
+├── accommodations.md              # Where we're staying
+├── dining.md                      # Restaurant reservations & recommendations
+├── jazz-fest-2026-lineup.pdf      # Official lineup PDF
+├── grand-marshal-faq-official.pdf # Official GM FAQ from Jazz Fest
+├── sunday-evening-conflict.jpg    # Visual of Sunday 5:25-7 PM conflict
+└── weather-forecast.jpg           # Apr 23-26 forecast (Thu dry, Fri-Sun rain)
 ```
 
 ## Quick Start Guides
@@ -42,11 +45,16 @@ jazz-fest-2026/
 2. [Planning Guide](./planning-guide.md) - Understand conflicts and strategy
 3. [Transportation Guide](./transportation-guide.md) - How to get there/back
 
-**Grand Marshall pass holders?** Read:
+**Grand Marshal pass holders?** Read:
+- [Grand Marshal Guide](./grand-marshal-guide.md) - Entry process, hospitality tent, GM area access
 - [Hidden Gems](./hidden-gems.md) - Best use of front stage access
 
 **Organizing a group?** Read:
 - [Group Coordination](./group-coordination.md) - Laura's sanity-saving guide
+
+**Weather & Logistics:**
+- [Weather Forecast](./weather-forecast.jpg) - Thu best (11% rain), Fri-Sun 48-50% scattered storms
+- Rain gear essentials in [Grand Marshal Guide](./grand-marshal-guide.md)
 
 ## Contributing
 
